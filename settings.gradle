@@ -1,0 +1,2 @@
+include ':app', ':text_1205', ':text_1206'
+include ':xListView'

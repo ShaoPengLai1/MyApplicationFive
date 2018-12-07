@@ -1,0 +1,26 @@
+me.maxwin
+drawable ic_launcher
+drawable xlistview_arrow
+id list_item_textview
+id xListView
+id xlistview_footer_content
+id xlistview_footer_hint_textview
+id xlistview_footer_progressbar
+id xlistview_header_arrow
+id xlistview_header_content
+id xlistview_header_hint_textview
+id xlistview_header_progressbar
+id xlistview_header_text
+id xlistview_header_time
+layout list_item
+layout main
+layout xlistview_footer
+layout xlistview_header
+string app_name
+string hello
+string xlistview_footer_hint_normal
+string xlistview_footer_hint_ready
+string xlistview_header_hint_loading
+string xlistview_header_hint_normal
+string xlistview_header_hint_ready
+string xlistview_header_last_time
